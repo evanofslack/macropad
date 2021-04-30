@@ -4,7 +4,7 @@ Macropad utilizing the Raspberry Pi Pico. 3 layers of functionality, 6 switches,
 
 <p float="left">
   <img src="/Images/MacroPad360.gif" width="400" height="250"/>
-  <img src="/Images/Final_Build.png" width="300" height="300"/>
+  <img src="/Images/Final_Build.png" width="400" height="250"/>
 </p>
 
 
